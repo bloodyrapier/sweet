@@ -307,15 +307,15 @@
     .container-2 h2{
         margin-top: 3vw;
         color: white;
-        font-size: 10vw;
+        font-size: 40px;
         
     }
     .container-3 h2{
         color: white;
-        font-size: 6vw;
+        font-size: 40px;
         max-height: 150px;
         position: absolute;
-        margin-top: 10vw;
+        margin-top: 6vw;
     }
     .footer h2{
         color: white;
