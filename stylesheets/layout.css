@@ -41,6 +41,7 @@ body{
     padding-right: 4vw;
     flex: 1;
     max-width: 45%;
+    z-index: 10;
 }
 .image img {
     max-width: 100%; 
