@@ -304,6 +304,10 @@
         flex: 1;
         max-width: 60%;
     }
+     .image img {
+        padding-top: 1px;
+        max-width: 100%; 
+    }
     .container-2 h2{
         margin-top: 3vw;
         color: white;
