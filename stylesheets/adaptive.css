@@ -220,7 +220,7 @@
         max-height: auto;
     }
     .line-3{
-        margin-top: 25vw;
+        margin-top: 20vw;
     }
     .container-4 h2{
         color: white;
@@ -294,7 +294,9 @@
         padding-top: 2px;
         margin: 6px 16px 8px;
     }
-}
+    .container-4{
+         overflow-x: hidden;
+    }
 @media (max-width: 456px) {
      .image {
         padding: 26px;
@@ -338,5 +340,8 @@
         display: flex;
         justify-content: space-between;
         margin-top: 44vw;
+    }
+    .container-4{
+         overflow-x: hidden;
     }
 }
