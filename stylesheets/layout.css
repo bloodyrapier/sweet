@@ -99,6 +99,7 @@ body{
     transform: rotate(8.80deg);
     margin-right: 10px;
     text-shadow: 5px 4px 4px #00000040;
+    z-index:10;
 }
 .boxes{
     margin-top: 12vw;
