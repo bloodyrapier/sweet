@@ -294,9 +294,6 @@
         padding-top: 2px;
         margin: 6px 16px 8px;
     }
-    .container-4{
-         overflow-x: hidden;
-    }
 @media (max-width: 456px) {
      .image {
         padding: 26px;
@@ -340,8 +337,5 @@
         display: flex;
         justify-content: space-between;
         margin-top: 44vw;
-    }
-    .container-4{
-         overflow-x: hidden;
     }
 }
