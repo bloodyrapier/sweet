@@ -14,6 +14,7 @@ body{
     background-repeat: no-repeat;
     height: 100vh;
     overflow-x:hidden;
+    viewport: 100%;
 }
 
 .container {
