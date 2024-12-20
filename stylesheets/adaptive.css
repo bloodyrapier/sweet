@@ -298,15 +298,16 @@
     }
 }
 @media (max-width: 456px) {
-    .image {
+     .image {
         padding: 26px;
         padding-right: 4vw;
         flex: 1;
-        max-width: 60%;
+        max-width: 40%;
     }
-     .image img {
+    .image img {
         padding-top: 1px;
-        max-width: 100%; 
+        max-width: 80%; 
+        margin-left: 30%;
     }
     .container-2 h2{
         margin-top: 3vw;
