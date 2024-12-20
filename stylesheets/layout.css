@@ -14,7 +14,6 @@ body{
     background-repeat: no-repeat;
     height: 100vh;
     overflow-x:hidden;
-    viewport: 100%;
 }
 
 .container {
@@ -160,7 +159,5 @@ body{
     text-align: right;
     margin: 20px 50px 20px;
 }
-.container-4{
-    overflow-x: hidden;
-}
+
 
