@@ -313,7 +313,6 @@
         margin-top: 3vw;
         color: white;
         font-size: 11vw;
-        overflow-x:hidden;
     }
     .container-3 h2{
         color: white;
@@ -321,7 +320,10 @@
         max-height: 150px;
         position: absolute;
         margin-top: 6vw;
-        overflow-x:hidden;
+    }
+        .container-4 h2{
+        color: white;
+        text-wrap: nowrap;
     }
     .footer h2{
         color: white;
@@ -333,11 +335,6 @@
     .logo{
         margin: 6px 16px 16px;
         width: 25%;
-    }
-    .container-4 h2{
-        color: white;
-        text-wrap: nowrap;
-        overflow-x: hidden;
     }
     .end{
         display: flex;
