@@ -265,13 +265,13 @@
 }
 @media (max-width: 456px) {
     .text h1{
-        font-size: 12vw;
+        font-size: 11vw;
         padding-top: 2vw;
     }
     .container-2 h2{
         margin-top: 3vw;
         color: white;
-        font-size: 10vw;
+        font-size: 9vw;
     }
     .container-3 h2{
         color: white;
