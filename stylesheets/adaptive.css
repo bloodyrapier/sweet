@@ -38,6 +38,7 @@
     .text h1 {
         font-size: 12vw; 
         width: 250px;
+        text-wrap: nowrap;
     }
     .text p {
         font-size: 7vw;
@@ -145,6 +146,7 @@
     .text h1 {
         font-size: 11vw; 
         width: 250px;
+        text-wrap: nowrap;
     }
     .text p {
         font-weight: 600;
